@@ -21,6 +21,7 @@ Design: [UFO](https://dribbble.com/shots/2815937/attachments/2815937-404-page?mo
 
 -   Github pages
 -   NO responsive design
+-   css `display:flex`
 
 ## 🧰 Getting Started
 
