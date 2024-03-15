@@ -8,13 +8,14 @@ align-items: flex-start;
 }
 
 .main-title{
-    font-size: 90px;
-    color: blue;
+    font-size: 80px;
+    color: #289BF0;
 }
 
 .description {
-    font-size: 20px;
+    font-size: 25px;
     font-weight: bold;
+    color: #5F5F5F;
     text-transform: uppercase;
     margin: 0 0 25px;
 }
@@ -22,8 +23,9 @@ align-items: flex-start;
 .btn{
     border-radius: 30px;
     line-height: 20px;
-    border: 3px solid blue;
-    font-size: 18px;
+    color: #289BF0;
+    border: 3px solid #289BF0;
+    font-size: 16px;
     text-decoration: none;
-    padding: 8px 20px;
+    padding: 6px 20px;
 }
